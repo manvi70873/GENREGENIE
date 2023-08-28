@@ -30,6 +30,7 @@ Follow these steps to get started with GenreGenie:
 * Clone the repository to your local machine.
 * Open the GENIE file using Jupyter Notebook.
 * Run the below cells in Jupyter Notebook.
+  
 ![App Screenshot](https://i.ibb.co/sJXjdvz/image.png)
 
 ![App Screenshot](https://i.ibb.co/F6d2Scf/image.png)
