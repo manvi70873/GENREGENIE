@@ -1,7 +1,7 @@
 
 # GenreGenie: AI-Powered Story Generator
 
-GenreGeniev🧞 is an innovative project that harnesses the power of artificial intelligence to create captivating stories tailored to your preferences. With just a few clicks, users can choose a genre, provide a story starter, select the desired story length, and let the AI weave🧶 a compelling narrative. The project goes beyond mere text generation, offering additional features such as narration, story sharing, downloading, and even grammar checking.
+GenreGenie🧞 is an innovative project that harnesses the power of artificial intelligence to create captivating stories tailored to your preferences. With just a few clicks, users can choose a genre, provide a story starter, select the desired story length, and let the AI weave🧶 a compelling narrative. The project goes beyond mere text generation, offering additional features such as narration, story sharing, downloading, and even grammar checking.
 
 
 ## Key Features
